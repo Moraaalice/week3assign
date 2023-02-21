@@ -1,10 +1,15 @@
+body{
+    border:solid;
+    color: blue;
+    padding: 5px;
+    margin: 30px;
 
-nav{
-    text-decoration: black; 
-    text-align: right; 
 }
 .img1{
-    margin-top: 0%;
+    display: flex;
+    margin-top: 20px;
+    text-align: end;
+     
 }
 .button1{
     background-color: blue;
@@ -66,8 +71,9 @@ nav{
 .AliceMoraa{
     display: flex;
     margin-left: 70%;
-    margin-bottom: 10%;
+    margin-bottom: 50px;
     gap: 4%;
+    size: 30%;
 }
 .Alice2{
     font-weight: bolder;
@@ -81,3 +87,14 @@ nav{
     gap: 4%;
     margin: 50px;
 }
+.lisaM2{
+    color: aqua;
+    margin-bottom: 50px;
+}
+.lisaM3{
+    color: purple;
+}
+.Lisam{
+    color: brown;
+}
+

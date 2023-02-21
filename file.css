@@ -1,0 +1,83 @@
+
+nav{
+    text-decoration: black; 
+    text-align: right; 
+}
+.img1{
+    margin-top: 0%;
+}
+.button1{
+    background-color: blue;
+    border: solid blue;
+    text-align: center;
+    margin: 0%auto;
+    display: flex;
+    color: white;
+}
+.head1{
+    color: greenyellow;
+    margin: 0%auto;
+    text-align: center;
+    
+}
+.par1{
+    margin: 0%auto;
+    text-align: center;
+    font-size: smaller;
+}
+.Alice1{
+    text-align: center;
+}
+ li{
+    display: inline;
+    margin-left: 100px; 
+    list-style: none;
+}
+
+.moraa{
+    display: flex;
+    margin-left: 50%;
+    justify-content: right;
+    gap: 2%;
+}
+.moraa1{
+    padding-right: 20px;
+    border: 4px solid;
+    background-color: gold;
+    font-size: smaller;
+}
+.moraa2{
+    padding-right: 20px;
+    border: 4px solid;
+    background-color: lightgreen;
+    font-size: smaller;
+}
+.moraa3{
+    padding-right: 20px;
+    border: 4px solid;
+    background-color: aqua;
+    font-size: smaller;
+}
+.button2{
+    border: solid;
+    background-color: blue;
+    color: white;
+}
+.AliceMoraa{
+    display: flex;
+    margin-left: 70%;
+    margin-bottom: 10%;
+    gap: 4%;
+}
+.Alice2{
+    font-weight: bolder;
+    
+}
+.Alicia{
+    border-radius: 5px;
+    border-bottom: none;
+}
+.Dante{
+    gap: 4%;
+    margin: 50px;
+}
